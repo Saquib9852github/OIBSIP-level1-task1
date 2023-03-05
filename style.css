@@ -1,0 +1,275 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    height: auto;
+    width: 100%;
+    /* border: 3px solid red; */
+    display: flex;
+    flex-direction: column;
+  
+    justify-content: center;
+    align-items: center;
+    /* background-image: url(https://wallpaperset.com/w/full/2/9/9/44647.jpg); */
+    /* background-image: url(C:\Users\saq85\OneDrive\Pictures\sweet.jpg); */
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/283/907/801/digital-art-lightbulb-broken-glass-wallpaper-preview.jpg");
+  
+  }
+  
+  .root {
+    color: #fff;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    backgro
+    /* background-position: cover; */
+    background-position: auto;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/283/907/801/digital-art-lightbulb-broken-glass-wallpaper-preview.jpg");
+  
+  }
+  
+  .item {
+    margin-right: 400px;
+    margin-top: 100px;
+    height: 400px;
+    width: 500px;
+    margin-left: 100px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    /* justify-content: center; */
+  }
+  
+  .item button {
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    margin-top: 50px;
+  }
+  
+  .itemm {
+    height: 450px;
+    width: 500px;
+    /* border: 1px solid green; */
+    border-bottom-left-radius: 220px;
+    border-top-left-radius: 220px;
+  }
+  
+  .item {
+    text-align: center;
+  }
+  
+  .contactButton {
+    height: 50px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: black;
+    color: #fff;
+    border: 2px solid #fff;
+    box-shadow: 2px 2px 40px #fff;
+    font-weight: bolder;
+    font-size: 23px;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    cursor: pointer;
+  }
+  
+  .itemm img {
+    border-bottom-left-radius: 220px;
+    border-top-left-radius: 220px;
+    height: 450px;
+    width: 500px;
+  }
+  .root2 {
+    height: 200px;
+    width: 90%;
+    /* border: 1px solid; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 40px;
+    /* background-color: white; */
+    background-image: pink;
+  }
+  
+  .item1 {
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: 1px 2px 40px #fff;
+    font-weight: bolder;
+    font-size: 22px;
+    background-color: black;
+    border: 2px solid #fff;
+    color: #fff;
+  }
+  .root3 {
+    height: 500px;
+    width: 100%;
+    color: grey;
+    /* border: 1px solid; */
+    text-align: center;
+    font-size: 40px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* background-color: aliceblue; */
+    background-image: url("https://onlinesciencenotes.com/wp-content/uploads/2021/03/lighting-effect-678x381.jpg");
+  }
+  
+  .btns {
+    height: 60px;
+    width: 300px;
+    justify-content: space-between;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+  }
+  
+  .btns button {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    border: none;
+    height: 50px;
+    width: 130px;
+    background-color: black;
+    color: #fff;
+    border: 2px solid #fff;
+    box-shadow: 2px 2px 40px #fff;
+  }
+  .pBox {
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    font-size: 25px;
+  }
+  .pBox1 {
+    width: 100px;
+    height: 40px;
+    /* border: 1px; */
+    border-radius: 40px;
+    box-shadow: 1px 2px 20px blue;
+    color: darkred;
+    background-color: white;
+    display: flex;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+  .pBox p {
+    font-size: 18px;
+  }
+  
+  .root4 {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-image: url("https://www.ecmag.com/images/default-source/articles/434cebdd-147c-4d65-97c2-d3448e0294b7.jpeg?sfvrsn=60d4df06_0");
+  }
+  .itemm1 {
+    height: 450px;
+    width: 500px;
+    /* border: 1px solid green; */
+    border-bottom-right-radius: 220px;
+    border-top-right-radius: 220px;
+    /* background-color: white; */
+    /* background-image: url(https://img.freepik.com/premium-photo/two-lollipop-with-white-pink-stripes_183587-3086.jpg?w=1060); */
+  }
+  .itemm1 img {
+    border-bottom-right-radius: 220px;
+    border-top-right-radius: 220px;
+    height: 450px;
+    width: 500px;
+  }
+  .itemm2 {
+    margin-left: 100px;
+    height: 240px;
+    width: 700px;
+    display: flex;
+    text-align: center;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 300px;
+  }
+  
+  .itemm2 h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: #fff;
+    margin-bottom: 40px;
+    color: #fff;
+  }
+  
+  .itemm2 p {
+    color: #fff;
+    font-size: 20px;
+  }
+  .root5 {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    /* background-image: url("https://promiseelectric.com/wp-content/uploads/2020/09/greg-rosenke-6QnEf_b47eA-unsplash-1024x682.jpg"); */
+  }
+  
+  .ownerPic {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin: auto;
+    box-shadow: 2px 3px 40px #fff;
+    margin-top: 40px;
+  }
+  
+  .imgBox {
+    display: flex;
+    width: 100%;
+    height: fit-content;
+  }
+  
+  .ownerPic img {
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+  }
+  
+  footer {
+    width: 100%;
+    height: 100px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: black;
+    color: #fff;
+  }
+  
